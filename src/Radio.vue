@@ -109,7 +109,7 @@ export default {
 }
 </script>
 
-<style scope>
+<style scoped>
 .radio { position: relative; }
 .radio > label > input {
   position: absolute;
